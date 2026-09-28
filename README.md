@@ -29,7 +29,7 @@ OR edit src/main/java/lbms/utils/DBConnection.java to match your database name a
 
 Clone the repository:
 ```
-git clone https://github.com/Dohinkus/library-book-management-system.git
+git clone https://github.com/erikbarbieri/library-book-management-system.git
 ```
 
 Make sure you are in the repository's directory:
