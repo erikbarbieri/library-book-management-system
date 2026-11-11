@@ -6,7 +6,7 @@
 
 <p align="center"><em>A quick tour of our JavaFX application!</em></p>
 
-<p align="center"><a href="assets/library-app-walkthrough.mp4">Watch the full 26-second, app-only video</a> OR <a href="#screenshots">Jump to screenshots</a></p>
+<p align="center"><a href="#screenshots">Jump to screenshots</a></p>
 
 # Fic Library - Library Book Management System
 
